@@ -126,14 +126,6 @@
       height="40"
     />
   </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 <h1 align="center"></h1>
 <p align="left">
@@ -163,3 +155,7 @@
   </a>
 </p>
 -->
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?usernameMdJakiulRashidKhan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
