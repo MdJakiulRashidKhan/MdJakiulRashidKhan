@@ -127,15 +127,7 @@
     />
   </a>
 </p>
-<h1 align="center"></h1>
-<p align="left">
-  <img 
-     height="200"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MdJakiulRashidKhan&show_icons=true&locale=en&layout=compact" 
-    alt="MdJakiulRashidKhan" 
-    />
-</p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
