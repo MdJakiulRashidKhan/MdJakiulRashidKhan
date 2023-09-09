@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Md,Jakiul Rashid Khan</h1>
+<h1 align="center">Hey 👋, I'm Md. Jakiul Rashid Khan</h1>
 <h3 align="center">
   A passionate learner from Bangladesh
 </h3>
