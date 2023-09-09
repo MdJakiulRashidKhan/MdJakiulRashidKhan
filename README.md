@@ -130,7 +130,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Md Jakiul Rashid Khan GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight))br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=default&hide_border=false)<br/>
-[![Md.Jakiul Rashid Khan GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan)](https://github.com/anuraghazra/github-readme-stats)
+
 
