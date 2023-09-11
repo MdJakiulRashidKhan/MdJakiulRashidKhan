@@ -133,6 +133,6 @@
 ## 📊 GitHub Stats:
 ![Md Jakiul Rashid Khan GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=default&hide_border=false&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=donut&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=donut&theme=tokyonight)(https://github.com/MdJakiulRashidKhan/github-readme-stats)
 
 
