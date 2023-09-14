@@ -107,7 +107,7 @@
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/c--4" alt="c#" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40" height="40"/> </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
