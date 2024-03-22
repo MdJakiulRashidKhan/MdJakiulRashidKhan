@@ -20,7 +20,7 @@
  </a> 
 </p>
 
-- 🌱 I’m currently learning **Next.js,ASP.NET**
+- 🌱 I’m currently learning **Next.JS,ASP.NET**
 - 👯 I’m looking to collaborate on **open source Projects**
 - 📫 How to reach me **zakiulsoraz@gmail.com**
 
