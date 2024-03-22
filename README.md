@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Md. Jakiul Rashid Khan</h1>
+<h1 align="center">Hey 👋, I'm Md. Jakiul Rashid Khan</h1>
 <h3 align="center">
  A passionate learner from Bangladesh
 </h3>
@@ -20,9 +20,9 @@
  </a> 
 </p>
 
--  I’m currently learning **Next.js,ASP.NET**
--  I’m looking to collaborate on **open source Projects**
--  How to reach me **zakiulsoraz@gmail.com**
+- 🌱 I’m currently learning **Next.js,ASP.NET**
+- 👯 I’m looking to collaborate on **open source Projects**
+- 📫 How to reach me **zakiulsoraz@gmail.com**
 
 
 
@@ -33,7 +33,6 @@
 <a href="https://fb.com/zakiul.soraz.2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakiul.soraz.2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-jakiul-rashid-khan-899562147/" target="blank"><img align="center" src="https://freepngimg.com/thumb/categories/1371.png" alt="zakiul.soraz.2" height="35" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Front-end Development:</h4>
@@ -71,4 +70,42 @@
    height="40"
   />
  </a>
- <a href="https://reactjs.org/" target="_blank"
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+   alt="react" 
+   width="40" 
+   height="40"
+   />
+ </a>
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+</p>
+
+<h4 align="left">Back-end Development:</h4>
+<p align="left">
+ <p>??????????????????????????</p>
+</p>
+
+<h4 align="left">Programming Languages:</h4>
+<p align="left">
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40" height="40"/> </a>
+ <a
+  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  target="_blank"
+  rel="noreferrer"
+ >
+  <img
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+   alt="javascript"
+   width="40"
+   height="40"
+  />
+ </a>
+</p>
+
+
+
+## 📊 GitHub Stats:
+![Md Jakiul Rashid Khan GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=default&hide_border=false&theme=tokyonight)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight)
