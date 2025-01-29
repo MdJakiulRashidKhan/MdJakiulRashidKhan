@@ -12,20 +12,7 @@
 - 🎯 Exploring **full-stack development** and **web innovations**
 - 📫 Reach me at **zakiulsoraz@gmail.com**
 - 💡 Building **cool projects** and experimenting with **new frameworks**
-- 🔥 Passionate about **Backend Dev**
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+- 🔥 Passionate about **AI & Machine Learning**
 
 ---
 
@@ -41,19 +28,26 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=tokyonight" alt="GitHub Streak"/>
+  ![Soraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ---
