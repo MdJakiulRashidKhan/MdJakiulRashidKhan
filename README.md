@@ -33,8 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-## 🗓️ My GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdJakiulRashidKhan&theme=github)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
