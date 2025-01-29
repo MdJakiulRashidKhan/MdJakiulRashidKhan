@@ -32,12 +32,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
-<p align="center">
+
 ## 🗓️ My GitHub Contributions
-github-readme-activity-graph.cyclic.app/graph?username=MdJakiulRashidKhan&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdJakiulRashidKhan&theme=github)
 
-
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
@@ -58,3 +56,4 @@ github-readme-activity-graph.cyclic.app/graph?username=MdJakiulRashidKhan&theme=
 🔹 I believe in **continuous learning** and **embracing new technologies**! 🚀
 
 ✨ **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
+
