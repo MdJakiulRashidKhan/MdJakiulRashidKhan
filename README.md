@@ -33,8 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdJakiulRashidKhan&theme=tokyonight" alt="GitHub Streak"/>
-  ![Soraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdJakiulRashidKhan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 🗓️ My GitHub Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdJakiulRashidKhan&bg_color=ffffff&color=2b8d7f&line=2b8d7f&point=2b8d7f&area=true&area_color=2b8d7f)
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
