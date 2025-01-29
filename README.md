@@ -34,7 +34,8 @@
 </p>
 <p align="center">
 ## 🗓️ My GitHub Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdJakiulRashidKhan&bg_color=ffffff&color=2b8d7f&line=2b8d7f&point=2b8d7f&area=true&area_color=2b8d7f)
+github-readme-activity-graph.cyclic.app/graph?username=MdJakiulRashidKhan&theme=github)
+
 
 </p>
 <p align="center">
