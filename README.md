@@ -34,7 +34,7 @@
 </p>
 
 ## 🗓️ My GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MdJakiulRashidKhan&theme=github)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdJakiulRashidKhan&theme=github)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJakiulRashidKhan&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -46,14 +46,5 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-</p>
-
----
-
-### 💡 Fun Fact
-🔹 I believe in **continuous learning** and **embracing new technologies**! 🚀
-
-✨ **"Code is like humor. When you have to explain it, it’s bad."** – Cory House
-
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+  
