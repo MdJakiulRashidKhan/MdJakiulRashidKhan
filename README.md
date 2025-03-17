@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MdJakiulRashidKhan&label=Profile%20views&color=brightgreen&style=flat)
 
 ### 🌟 About Me
-- 🌱 Currently diving deep into **Next.js & ASP.NET**
+- 🌱 Currently diving deep into **Next.js**
 - 🤝 Open to collaboration on **open-source projects**
 - 🎯 Exploring **full-stack development** and **web innovations**
 - 📫 Reach me at **zakiulsoraz@gmail.com**
